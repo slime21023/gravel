@@ -1,0 +1,6 @@
+nimcache/
+*.exe
+tests/test_gravel
+tests/test_logger
+examples/demo
+examples/logger_demo
